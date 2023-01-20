@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/video-upload.iml" filepath="$PROJECT_DIR$/.idea/video-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonpoints.iml" filepath="$PROJECT_DIR$/.idea/pythonpoints.iml" />
     </modules>
   </component>
 </project>
